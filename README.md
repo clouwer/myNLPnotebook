@@ -35,6 +35,8 @@ word2vec参数 [md](./mds/word2vec.md)
 
 文本聚类过程 [md](./mds/文本聚类的过程.md)
 
+[文本聚类](https://www.jianshu.com/p/40493f4010a9)
+
 
 
 ## 系统应用
