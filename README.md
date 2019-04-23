@@ -49,7 +49,7 @@ python使用gensim进行文本相似度计算 [https://blog.csdn.net/lom9357bye/
 >
 > 计算两个向量的余弦相似度，值越大就表示越相似
 > $$
-> cos(\theta) = \frac{\sum_{i=1}^{n}(A_i×B_i))}{\sqrt{\sum_{i=1}^{n}(A_i)^2}×{\sqrt{\sum_{i=1}^{n}{(B_i)^2}}}}= \frac{A*B}{|A|×|B|}
+> cos(\theta) = \frac{\sum_{i=1}^{n}(A_i×B_i))}{\sqrt{\sum_{i=1}^{n}(A_i)^2}×{\sqrt{\sum_{i=1}^{n}{(B_i)^2}}}} \\ = \frac{A*B}{|A|×|B|}
 > $$
 > 
 
