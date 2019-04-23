@@ -37,6 +37,24 @@ word2vec参数 [md](./mds/word2vec.md)
 
 [文本聚类](https://www.jianshu.com/p/40493f4010a9)
 
+python使用gensim进行文本相似度计算 [https://blog.csdn.net/lom9357bye/article/details/73136117](https://blog.csdn.net/lom9357bye/article/details/73136117)
+
+余弦相似度计算
+
+> 对两篇文章分词
+>
+> 提取关键词，合并成一个集合，计算每篇文章对于这个集合中词的词频
+>
+> 生成两篇文章各自的词频向量
+>
+> 计算两个向量的余弦相似度，值越大就表示越相似
+> $$
+> cos(\theta) = \frac{\sum_{i=1}^{n}(A_i×B_i))}{\sqrt{\sum_{i=1}^{n}(A_i)^2}×{\sqrt{\sum_{i=1}^{n}{(B_i)^2}}}}= \frac{A*B}{|A|×|B|}
+> $$
+> 
+
+
+
 
 
 ## 系统应用
