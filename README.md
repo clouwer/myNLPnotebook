@@ -4,7 +4,7 @@
 
 学习资料库 [md](./mds/学习资料库.md)
 
-
+概率图模型学习笔记：HMM、MEMM、CRF [md](./mds/概率图模型学习笔记：HMM、MEMM、CRF.md)
 
 ## NLP应用场景
 
