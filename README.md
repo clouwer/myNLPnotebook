@@ -6,6 +6,10 @@
 
 概率图模型学习笔记：HMM、MEMM、CRF [md](./mds/概率图模型学习笔记：HMM、MEMM、CRF.md)
 
+BiLSTM介绍及代码实现 [https://www.jiqizhixin.com/articles/2018-10-24-13](https://www.jiqizhixin.com/articles/2018-10-24-13)
+
+基于双向BiLstm神经网络的中文分词详解及源码 [https://www.cnblogs.com/vipyoumay/p/8608754.html](https://www.cnblogs.com/vipyoumay/p/8608754.html)
+
 ## NLP应用场景
 
 从词汇、语句、篇章到系统应用不同粒度上的NLP应用场景：
