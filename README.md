@@ -27,6 +27,8 @@ BiLSTM介绍及代码实现 [https://www.jiqizhixin.com/articles/2018-10-24-13](
 
 ## 词法短语
 
+[秒懂词向量word2vec的本质](https://zhuanlan.zhihu.com/p/26306795)
+
 word2vec参数 [md](./mds/word2vec.md)
 
 ### 分词
@@ -39,7 +41,14 @@ word2vec参数 [md](./mds/word2vec.md)
 
 * 词性对照表 [md](./mds/汉语词性.md)
 
-  
+### NER (Named Entity Recognition，命名实体识别)
+
+* [条件随机场(Conditional random field, CRF)](https://www.cnblogs.com/Determined22/p/6915730.html)
+* [BILSTM-CRF模型做基于字的中文命名实体识别](https://www.cnblogs.com/Determined22/p/7238342.html)
+
+
+
+
 
 ---
 
