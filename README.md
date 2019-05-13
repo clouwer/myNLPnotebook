@@ -45,6 +45,7 @@ word2vec参数 [md](./mds/word2vec.md)
 
 * [条件随机场(Conditional random field, CRF)](https://www.cnblogs.com/Determined22/p/6915730.html)
 * [BILSTM-CRF模型做基于字的中文命名实体识别](https://www.cnblogs.com/Determined22/p/7238342.html)
+* BERT-BiLSTM-CRF-NER [GitHub](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
 
 
 
