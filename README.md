@@ -1,6 +1,6 @@
 # myNLPnotebook
 
-
+[关于BERT的若干问题整理记录](https://zhuanlan.zhihu.com/p/95594311)
 
 学习资料库 [md](./mds/学习资料库.md)
 
